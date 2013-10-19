@@ -37,7 +37,7 @@ define('DB_COLLATE', '');
 
 /*FTP*/
 
-define('FTP_HOST', '192.168.0.102');
+define('FTP_HOST', '192.168.0.103');
 define('FTP_USER', 'digitalina');
 define('FTP_PASS', '9K55v1Vj');
 define('FTP_BASE' , 'www/');
