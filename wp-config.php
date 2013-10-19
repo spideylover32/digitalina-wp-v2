@@ -16,10 +16,10 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wp-digitalina-db');
+define('DB_NAME', 'wp_digitalina_db');
 
 /** MySQL database username */
-define('DB_USER', 'digitalina-sql');
+define('DB_USER', 'digitalina_sql');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'qd82Ty8V');
